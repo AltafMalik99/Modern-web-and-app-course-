@@ -7,8 +7,10 @@ h1{
     background-color: yellow;
     display: flex;
     justify-content: end;
+    font-family: 'Courier New', Courier, monospace;
 
 }
+
 
 
 
