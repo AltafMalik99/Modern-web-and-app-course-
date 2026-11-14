@@ -7,7 +7,85 @@
 /* |          | */
 /* property    value  */
 
-h1{
+/* h1{
+    color: red;
+} */
+
+/* 
+h2{
+    color: yellow;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+} */
+
+/* 
+h2{
+    color: yellow;
+}
+
+p{
     color: red;
 }
 
+
+button{
+    color: brown;
+    background-color: green;
+}
+
+body{
+    background-color: black;
+} */
+
+
+/* universal selector  */
+/* targets all elements on the page */
+
+/* *{
+    color: red;
+} */
+
+
+/* type selector  */
+/* matches element names , targets the <h1>,<h2> and <h3> elements */
+
+
+/* h1,h2{
+    color: blue;
+} */
+
+
+/* .hello-1{
+    color: red;
+}
+
+.website{
+    color: pink;
+}
+
+
+.btn{
+    color: blue;
+}
+
+.hello-2{
+    color: brown;
+} */
+
+
+/* id selector */
+/* is ma sirf unique id se sakta hai */
+
+/* #my-web{
+    color: red;
+} */
+
+.list-one{
+    color: rgb(0,0, 255);
+}
+
+
+.list-two{
+    color: pink;
+}
