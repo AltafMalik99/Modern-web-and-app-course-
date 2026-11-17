@@ -81,11 +81,60 @@ body{
     color: red;
 } */
 
-.list-one{
+/* .list-one{
     color: rgb(0,0, 255);
 }
 
 
 .list-two{
     color: pink;
+} */
+
+
+/* rgb =>   red green blue  */
+
+/* body{
+    background-color:#FF671A;
 }
+
+.ball{
+    color: yellow;
+
+}
+
+.website{
+    color: blue;
+} */
+
+
+
+/* color ................................. */
+
+/* RGA aur RGBA  */
+/* is me red green aur blue ki values 0 se 255 tak jati hai  . RGBA me akkhri value alpha
+ hoti ha jo transparency (opacity) control karta hai (0.0 se 1.0 tak) */
+
+
+/* body{
+    background-color:rgba(255, 100, 0, 0.1)
+} */
+
+/* is ma last wala number bata ha ke color kitna teez ho or kitna halka ho  */
+
+
+
+/* .ball{
+    background-color: rgba(237,240, 238, 0.4);
+} */
+
+
+/* .ball{
+    background-color:#d9d209 ;
+} */
+
+
+
+/* Selectors ............................................. */
+
+
+
