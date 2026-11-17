@@ -137,4 +137,53 @@ body{
 /* Selectors ............................................. */
 
 
+/* element selector html tag ke naam se select karta hai m */
+
+
+
+
+ /* h1{
+    color: red;
+ }
+
+
+ h2{
+    color: yellow;
+ } */
+
+
+ /* id........... 
+ selector kisi specific html element ko select karne ke liye id use hoti hai */
+  /* id selector ke liye # use hota hai */
+
+  /* id hamesha unique honi chahiye htmml ma ek id ideally sirf ek element ko di jati hai */
+/* agar same id de to ya technically brower ma chal sakta hai lekin html ma ye correct practice nhi hai  */
+
+
+  /* class selector.............
+    ek ya multiple element ko same styling dene ke liye class use hoti hai */
+  /* class selector ke liye . use hota hai */
+
+
+  /* universal selector.......
+   ya html ke tamam element ko select karta hai */
+
+
+  /* group selector..........
+   jab multiple element ko ek jaisi styling deni ho */
+
+  /* h2,h2, p{
+    color: red;
+  } */
+
+
+
+
+  /* child selector ......
+  child selector kisi html element ke direct child ko select karta hai */
+  /* is liye hum greater than sign > use karta hai */
+
+
+
+  
 
