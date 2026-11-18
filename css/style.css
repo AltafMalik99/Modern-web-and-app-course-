@@ -237,7 +237,7 @@ h1{
 } */
 
 
-#test{
+/* #test{
     color: aqua !important;
 }
 
@@ -257,4 +257,27 @@ h1{
 
 h1{
     color: blue;
-}
+} */
+
+
+
+  /* priority ........ */
+
+/* (1) css ma sub se zayda priority !important ki hoti hai */
+
+/* (2) phir inline css ki hoti ha  */
+
+/* (3) id selcetor ki hoti ha  */
+
+/* (4) class selector ki hoti hai */
+
+/* (5) type selector ki hoti hai */
+
+
+
+/* inheritance...........
+  css ma is ka mtb hota hai ke ek html element apne parent element ki 
+css properties ko inherit kar leta hai */
+
+/* yani agar app parent element ko css deta ha to uske child element bhi kuch css
+properties automaticall le lete hai */
