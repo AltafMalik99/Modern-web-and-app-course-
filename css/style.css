@@ -183,7 +183,78 @@ body{
   child selector kisi html element ke direct child ko select karta hai */
   /* is liye hum greater than sign > use karta hai */
 
+  /* .main>p>b {
+     color: blue;
+  }  */
 
 
+/* Descendant selector ....... */
+/* ya kisi ek tag je andar mojood doosre tag ko target karta hai (chahe woh seedha andar ho ya kisi
+ aur tag me andar chhupa ho ) */
+
+
+ /* h1 + h2{
+    color: red;
+ } */
+
+
+
+/* Adjacent sibling selector ...... */
+/* ya kisi tag ke foran baad aanewala sirf phele tag ko target karta hai
+done ka parent ek hone chahiye (h1 + p) ya h1 ke bilkul foran baad aane wale sirf phele 
+<p> par style lagayega baad wale <p> per nhi   */
+
+
+/* h1+h1+p{
+    color: red;
+} */
+
+
+
+/* General sibling selector ...... */
+/* ya kisi tag ke baad aane wale tamam (sibling) tag ko traget karta hai 
+chahe wo bilkul foran baad hon ya thoda neecha  */
+
+
+/* h1~h2~p{
+    color: red;
+} */
+
+
+  /* priority ... */
   
+  /* inline css sabse zyada priority ha */
 
+
+
+
+/* h1{
+    color: yellow;
+}
+
+h1{
+    color: pink;
+} */
+
+
+#test{
+    color: aqua !important;
+}
+
+#test{
+    color: goldenrod !important;
+}
+
+
+
+.heading{
+    color: red;
+}
+
+
+
+
+
+h1{
+    color: blue;
+}
