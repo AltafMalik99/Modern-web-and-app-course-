@@ -281,3 +281,47 @@ css properties ko inherit kar leta hai */
 
 /* yani agar app parent element ko css deta ha to uske child element bhi kuch css
 properties automaticall le lete hai */
+
+
+
+/* Texr properties.................. */
+
+/* text align ......... */
+/* test ko left right ya center ma set karta hai  */
+
+/* h1{
+    text-align: center;
+}
+
+p{
+    text-align: left;
+} */
+
+
+/* div{
+    text-align: center;
+} */
+
+
+
+/* text decoration ............. */
+/* text ke neeche upar ya beech ma line lagata hai */
+
+/* h1{
+   text-decoration:underline dotted red; 
+   text-decoration:underline; 
+   text-decoration:overline; 
+   text-decoration: red underline; 
+   text-decoration:line-through; 
+} */
+
+/* a{
+    text-decoration: none ;
+    color: red;
+    background-color: black;
+} */
+
+
+
+/* font weight.... */
+/*  */
