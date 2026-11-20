@@ -354,6 +354,60 @@ p{
 
 
 /* font family..........  */
+
 /* font-family property text ka font style likne ka design change karta hai  */
 /* ek se zyada fonts bhi de sakte hai agar pehla font available na ho to browser doosra font use karta hai */
 
+
+/* css font family property webpage per text ko font ya writing style select
+karta hai yani text kis design ma nazar aayega s */
+ 
+/* .one{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.span{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+} */
+
+
+
+/* .two {
+  font-family: "Playwrite AU SA Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.one {
+  font-family: "Zeyada", cursive;
+  font-weight: 400;
+  font-style: normal;
+} *
+
+
+.heading {
+    font-size: 100px;
+    font-weight: bold;
+
+    background-image: url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1000");
+
+    background-size: cover;
+    background-position: center;
+
+    color: transparent;
+    background-clip: text;
+} */
+
+
+
+/* Units in Css............. */
+
+/* Absolute units ka size fixed hota hai */
+/* px , pixels */
+
+/* relative units */
