@@ -324,4 +324,36 @@ p{
 
 
 /* font weight.... */
-/*  */
+/* kitna drak ya light kar ne ha text ko  or is ki value 100 se 900 tako hoti hai*/
+
+/* #h1{
+    font-weight: normal;
+}
+
+#h2{
+    font-weight:lighter;
+} */
+
+
+
+/* #h1{
+    font-weight: 100;
+}
+
+#h2{
+    font-weight: 300;
+}
+#h3{
+    font-weight: 600;
+}
+#h4{
+    font-weight: 900;
+} */
+
+
+
+
+/* font family..........  */
+/* font-family property text ka font style likne ka design change karta hai  */
+/* ek se zyada fonts bhi de sakte hai agar pehla font available na ho to browser doosra font use karta hai */
+
