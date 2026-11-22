@@ -284,7 +284,7 @@ properties automaticall le lete hai */
 
 
 
-/* Texr properties.................. */
+/* Text properties.................. */
 
 /* text align ......... */
 /* test ko left right ya center ma set karta hai  */
@@ -412,11 +412,17 @@ karta hai yani text kis design ma nazar aayega s */
 
 /* css ma do units ki type hota hai */
 
-/* Absolute units ka size fixed hota hai */
+/* Absolute.. units ka size fixed hota hai */
 /* px, cm , mm , iin,pt,pc */
 
 /* relative units */
 
 /* relative units ka size kisi doosri value ya enviroment ke mutabiq hota hai */
+/* % em rem vw vh vmin vmaz */
+
+/* .heading1{
+    font-size:150%;
+} */
+
 
 
