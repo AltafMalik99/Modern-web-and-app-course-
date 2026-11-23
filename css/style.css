@@ -426,3 +426,88 @@ karta hai yani text kis design ma nazar aayega s */
 
 
 
+/* rem.... */
+
+/* by default browser ma html ka font size usually 16px hota hai */
+
+/* 1 rem  ===> 16px */
+/* 2 rem  ===> 32px */
+
+/* rem html root ko follow karta hai */
+
+/* html{
+    font-size: 30px;
+}
+
+.parent{
+    font-size: 40px;
+}
+
+.child{
+    font-size: 2rem;
+} */
+
+
+
+/* html{
+    font-size: 40px;
+}
+
+.parent{
+    font-size: 40px
+}
+
+
+.rem-child{
+    font-size: 2rem;
+}
+
+.last{
+    font-size: 100px;
+} */
+
+
+/* em...... */
+
+
+/* yani parent ka font-size change karoge to child ke font-size bhi uske according change honga */
+/* em parent ko follow karta hai */
+
+/* .parent{
+    font-size:10px;
+}
+
+.child{
+    font-size:3em;
+} */
+
+
+
+/* line-height............. */
+
+/* agar paragraph me multiple lines hai to un lines ke beech kitna gap hoga ye line height decide karta hai */
+
+
+/* font-size ki by default value normal hoti hai zyada tar browsers ma 1.2 ya 1.2em hota hai */
+
+/* .para{
+    font-size: 10px;
+    line-height:20px;
+} */
+
+
+
+/* text transform... */
+
+/* .para{
+    text-transform:uppercase;
+} */
+
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+}
