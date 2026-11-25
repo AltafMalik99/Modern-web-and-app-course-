@@ -511,3 +511,158 @@ karta hai yani text kis design ma nazar aayega s */
 #inner{
     font-size: 10px;
 } */
+
+/* Box Model in Css......................................... */
+
+/* css box model ke 4 parts hote hai  */
+
+/* content: iske andar actual text ya image hoti hai */
+/* padding: content ke ander aur border ke darmiyan space */
+/* border: element ke around boundary ya line */
+/* margin: element ke bahar doosre element se distance */
+
+/* content */
+/* div{
+   height: 100px; 
+} */
+
+/* padding.. */
+
+/* .div1{
+    padding: 20px;
+} */
+
+
+/* .div1{
+    border: 5px solid red;
+} */
+
+
+/* margin */
+
+/* .div1{
+    margin: 30px;
+} */
+
+
+/* h1{
+    background-color: aqua;
+    width: 150px;
+    border: dotted;
+    text-align:center;
+    color:yellowgreen;
+}
+
+.div1{
+    height: 60px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid red;
+    border: dotted yellow;
+    margin-top: 20px;
+    text-align:center;
+     border-radius:5% ;
+} */
+
+
+
+/* .parent{
+    width: 600px;
+    height: 300px;
+    background-color: aqua;
+}
+.child{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+} */
+
+
+/* div{
+    width: 130px;
+    height: 90px;
+    background-color: aqua;
+    border: 2px solid red;
+    padding-left: 10px;
+    padding-top: 80px;
+} */
+
+/* padding shorthand */
+
+/* div{
+    width: 130px;
+    height: 90px;
+    background-color: aqua;
+    padding-bottom: 20px;
+    padding: 1px 2px 3px 3px ; */
+    /* top , right , bottom , left  */
+/* } */
+
+/* padding bottom neeche se space  */
+
+
+/* margin element ke bahar doosre element se distance  */
+
+
+/* div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid red;
+    margin-top: 15px;
+    margin-left: 305px;
+    margin-top: 10px;
+    padding: 1px 2px 3px 3px ; 
+
+} */
+
+
+/* project............... */
+
+
+
+/* 
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+.navber{
+ background-color: black;
+ height: 40px;
+ border: 2PX solid red;
+ margin: 0;
+ }
+
+
+
+a{
+    
+    margin-right: 65px;
+    text-decoration: none;
+}
+
+
+#logo{
+    color: orange;
+    font-size: 25px;
+}
+
+button{
+    background-color: orange;
+    border: none;
+    padding: 3px;
+    color: black;
+    border-radius:5px;
+} 
+
+.input{
+  
+  color: black;
+
+}
+*/
+
+
+
