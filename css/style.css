@@ -666,3 +666,44 @@ button{
 
 
 
+/* Display Property....................................................... */
+
+/* display:inline / block / inline-block /none */
+
+/* inline - takes only the space required by thr element. (no margin / padding */
+/* block- takes full space available in width */
+/* inline-block - similar  */
+
+
+/* .one{
+    background-color: aqua;
+    display: inline;
+}
+
+
+.two{
+    display: inline;
+}
+
+
+.btn{
+    display: block;
+} */
+
+
+
+/* inline-block ya dono ko combination hai */
+/* element same line me reh sakta hai inline ki tarah */
+
+
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    margin: 10px;
+}
+
+
+
+/* video 2:43 */
